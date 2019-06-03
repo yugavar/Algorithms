@@ -1,2 +1,2 @@
 # Algorithms
-Practice repository for Algorithm course.
+Practice repository for design and analysis of algorithms course.
